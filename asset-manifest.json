@@ -1,27 +1,27 @@
 {
   "files": {
-    "main.css": "https://jihyelee329.github.io/hackathon/static/css/main.aa165bc5.chunk.css",
-    "main.js": "https://jihyelee329.github.io/hackathon/static/js/main.ea525995.chunk.js",
-    "main.js.map": "https://jihyelee329.github.io/hackathon/static/js/main.ea525995.chunk.js.map",
-    "runtime-main.js": "https://jihyelee329.github.io/hackathon/static/js/runtime-main.2bf534a9.js",
-    "runtime-main.js.map": "https://jihyelee329.github.io/hackathon/static/js/runtime-main.2bf534a9.js.map",
-    "static/js/2.6ed07bc3.chunk.js": "https://jihyelee329.github.io/hackathon/static/js/2.6ed07bc3.chunk.js",
-    "static/js/2.6ed07bc3.chunk.js.map": "https://jihyelee329.github.io/hackathon/static/js/2.6ed07bc3.chunk.js.map",
-    "index.html": "https://jihyelee329.github.io/hackathon/index.html",
-    "static/css/main.aa165bc5.chunk.css.map": "https://jihyelee329.github.io/hackathon/static/css/main.aa165bc5.chunk.css.map",
-    "static/js/2.6ed07bc3.chunk.js.LICENSE.txt": "https://jihyelee329.github.io/hackathon/static/js/2.6ed07bc3.chunk.js.LICENSE.txt",
-    "static/media/check_bg.d2fa125c.png": "https://jihyelee329.github.io/hackathon/static/media/check_bg.d2fa125c.png",
-    "static/media/icon_arrow.8639e118.svg": "https://jihyelee329.github.io/hackathon/static/media/icon_arrow.8639e118.svg",
-    "static/media/icon_map.4e6c938d.svg": "https://jihyelee329.github.io/hackathon/static/media/icon_map.4e6c938d.svg",
-    "static/media/icon_mapFin.553e3ae1.svg": "https://jihyelee329.github.io/hackathon/static/media/icon_mapFin.553e3ae1.svg",
-    "static/media/icon_phone.b18e16a9.svg": "https://jihyelee329.github.io/hackathon/static/media/icon_phone.b18e16a9.svg",
-    "static/media/icon_search.696e942f.svg": "https://jihyelee329.github.io/hackathon/static/media/icon_search.696e942f.svg",
-    "static/media/logo.fe4dd53e.svg": "https://jihyelee329.github.io/hackathon/static/media/logo.fe4dd53e.svg"
+    "main.css": "/covid-solution/static/css/main.aa165bc5.chunk.css",
+    "main.js": "/covid-solution/static/js/main.42d0a2d8.chunk.js",
+    "main.js.map": "/covid-solution/static/js/main.42d0a2d8.chunk.js.map",
+    "runtime-main.js": "/covid-solution/static/js/runtime-main.7a96cccc.js",
+    "runtime-main.js.map": "/covid-solution/static/js/runtime-main.7a96cccc.js.map",
+    "static/js/2.5b353721.chunk.js": "/covid-solution/static/js/2.5b353721.chunk.js",
+    "static/js/2.5b353721.chunk.js.map": "/covid-solution/static/js/2.5b353721.chunk.js.map",
+    "index.html": "/covid-solution/index.html",
+    "static/css/main.aa165bc5.chunk.css.map": "/covid-solution/static/css/main.aa165bc5.chunk.css.map",
+    "static/js/2.5b353721.chunk.js.LICENSE.txt": "/covid-solution/static/js/2.5b353721.chunk.js.LICENSE.txt",
+    "static/media/check_bg.d2fa125c.png": "/covid-solution/static/media/check_bg.d2fa125c.png",
+    "static/media/icon_arrow.8639e118.svg": "/covid-solution/static/media/icon_arrow.8639e118.svg",
+    "static/media/icon_map.4e6c938d.svg": "/covid-solution/static/media/icon_map.4e6c938d.svg",
+    "static/media/icon_mapFin.553e3ae1.svg": "/covid-solution/static/media/icon_mapFin.553e3ae1.svg",
+    "static/media/icon_phone.b18e16a9.svg": "/covid-solution/static/media/icon_phone.b18e16a9.svg",
+    "static/media/icon_search.696e942f.svg": "/covid-solution/static/media/icon_search.696e942f.svg",
+    "static/media/logo.fe4dd53e.svg": "/covid-solution/static/media/logo.fe4dd53e.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.2bf534a9.js",
-    "static/js/2.6ed07bc3.chunk.js",
+    "static/js/runtime-main.7a96cccc.js",
+    "static/js/2.5b353721.chunk.js",
     "static/css/main.aa165bc5.chunk.css",
-    "static/js/main.ea525995.chunk.js"
+    "static/js/main.42d0a2d8.chunk.js"
   ]
 }
